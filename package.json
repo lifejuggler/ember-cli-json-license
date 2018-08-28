@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-json-license",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Export and display NPM Licenses in concise JSON format",
   "repository": {
     "type": "git",
