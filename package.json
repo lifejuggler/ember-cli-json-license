@@ -24,10 +24,10 @@
     "ember-cli-htmlbars": "^1.0.10",
     "ember-cli-shims": "^1.2.0",
     "license-checker": "^8.0.3",
+    "lodash": "^4.17.10",
     "mkdirp": "^0.5.1",
     "node-dir": "^0.1.16",
-    "rsvp": "^3.3.3",
-    "underscore": "^1.8.3"
+    "rsvp": "^3.3.3"
   },
   "devDependencies": {
     "ember-ajax": "^2.4.1",
