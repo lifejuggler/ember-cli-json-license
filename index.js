@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-    name: 'ember-cli-license',
+    name: 'ember-cli-json-license',
     includedCommands: function () {
         return {
             release : require('./bin/license')
