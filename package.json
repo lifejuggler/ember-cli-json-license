@@ -1,24 +1,24 @@
 {
-  "name": "ember-cli-license",
+  "name": "ember-cli-json-license",
   "version": "1.2.6",
-  "description": "Export and display NPM/Bower dependencies",
+  "description": "Export and display NPM Licneses in concise JSON format",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rickieshi/ember-cli-license.git"
+    "url": "https://github.com/lifejuggler/ember-cli-json-license.git"
   },
   "bugs": {
-    "url": "https://github.com/rickieshi/ember-cli-license/issues"
+    "url": "https://github.com/lifejuggler/ember-cli-json-license/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "author": {
-    "name": "Ricky Shi",
-    "email": "rickieshi@gmail.com"
+    "name": "Tom Choi",
+    "email": "jtchoiboy@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
-    "bower-json": "^0.8.1",
+    "broccoli-asset-rev": "^3.0.0",
     "ember": "^1.0.3",
     "ember-cli-babel": "^6.11.0",
     "ember-cli-htmlbars": "^1.0.10",
@@ -30,7 +30,6 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "broccoli-asset-rev": "^2.4.5",
     "ember-ajax": "^2.4.1",
     "ember-cli": "2.9.1",
     "ember-cli-app-version": "^2.0.0",
